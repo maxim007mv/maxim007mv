@@ -1,6 +1,6 @@
 <!-- Крутой баннер -->
 <p align="center">
-  <img src="https://i.imgur.com/o7NC4EX.gif" alt="coding gif" width="800"/>
+  <img src="https://i.pinimg.com/736x/78/9d/df/789ddf25eb2a8cc998c01e6172ae6845.jpg" alt="coding gif" width="800"/>
 </p>
 
 <h1 align="center">⚡ Привет, я Максим! ⚡</h1>
