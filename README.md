@@ -1,6 +1,6 @@
 <!-- 🎬 Главный баннер -->
 <p align="center">
-  <img src="https://i.imgur.com/qj6Kx8G.gif" alt="cyberpunk hacking" width="100%"/>
+  <img src="https://tenor.com/view/when-the-coding-when-the-coding-when-the-coding-is-when-the-meme-gif-21749595" alt="cyberpunk hacking" width="100%"/>
 </p>
 
 <h1 align="center">⚡ Йоу, я Максим ⚡</h1>
