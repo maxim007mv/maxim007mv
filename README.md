@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">⚡ Yo, я Максим ⚡</h1>
-<h3 align="center">🚀 Senior Full-Stack Developer | 9 лет опыта | Code Wizard 🧙‍♂️</h3>
+<h3 align="center">🚀 Senior Full-Stack Developer | 9 лет опыта | Ваааайбс Коодерс 🧙‍♂️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=600&height=60&lines=Пишу+код+как+Бог;Full-Stack+мастерство;9+лет+опыта;Делаю+невозможное+возможным;Люблю+сложные+проекты;Живу+кодом+24%2F7">
