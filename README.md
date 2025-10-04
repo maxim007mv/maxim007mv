@@ -91,5 +91,5 @@
 
 <!-- 📟 Matrix rain gif -->
 <p align="center">
-  <img src="https://i.gifer.com/3UdA.gif" alt="matrix" width="600"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="matrix" width="600"/>
 </p>
