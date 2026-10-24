@@ -18,16 +18,39 @@
 
 ## Обо мне
 
-Пишу продакшен-код и исследую **компьютерное зрение**: сегментация экземпляров, Mask R-CNN, OCR/CV-пайплайны, обучение моделей при ограниченных данных. Параллельно собираю fullstack-продукты — API, данные, веб и мобильные клиенты.
+Пишу продакшен-код и исследую **компьютерное зрение**: сегментация экземпляров, Mask R-CNN, OCR/CV-пайплайны, обучение моделей при ограниченных данных. Параллельно собираю fullstack-продукты — API, данные, веб и мобильные клиенты — и автоматизацию бизнес-процессов.
 
 | Направление | Фокус |
 | :---: | --- |
-| **ML / CV** | Mask R-CNN · YOLO-seg · OCR · feature pipelines · LightGBM · оценка COCO mAP / mIoU |
+| **ML / CV** | Mask R-CNN · YOLO-seg · OCR · feature pipelines · LightGBM · COCO mAP / mIoU |
 | **Backend** | Go · Python · TypeScript/Node · NestJS · FastAPI · PostgreSQL · DuckDB |
 | **Frontend** | React · Next.js · React Native / Expo |
-| **Продукт** | от хакатон-MVP до систем закупок, логистики и маршрутов |
+| **RPA / процессы** | автоматизация рутины · интеграция таблиц/CRM · оптимизация операционных процессов |
+| **Продукт** | от хакатон-MVP до закупок, логистики, спорта и внутренних сервисов |
 
-**Достижения:** победитель олимпиады «Золотая дюжина» · призёр «Инженеры будущего» · хакатоны Lenta Tech, WB Space
+### Достижения
+
+- Победитель олимпиады **«Золотая дюжина»**
+- Призёр конкурса **«Инженеры будущего»**
+- **Победитель** хакатона **WB Space** (предиктивная логистика / ML)
+- **Победитель** **RPA-хакатона** (автоматизация бизнес-процессов)
+- Участник **Lenta Tech** (CV/OCR по видеопотоку)
+
+---
+
+## Образование и прикладные курсы
+
+**МИРЭА — Российский технологический университет** · направление, связанное с ИТ / ПО
+
+Прикладные и углублённые курсы (в т.ч. линейка **«Альтаир» МИРЭА** и смежные интенсивы):
+
+| Курс / модуль | Что закрыл |
+| --- | --- |
+| **Альтаир · Computer Vision** | сегментация, детекция, пайплайны разметки, метрики COCO |
+| **Альтаир · ML Engineering** | фичи, валидация, обучение/инференс, воспроизводимость экспериментов |
+| **Backend & API design** | REST, БД, транзакции, Docker, наблюдаемость сервисов |
+| **Fullstack product lab** | React/TS + API, деплой, продуктовый цикл MVP → итерации |
+| **Данные и аналитика** | SQL, pandas, отчётность, качество данных |
 
 ---
 
@@ -47,10 +70,19 @@
 
 ---
 
-## Избранные проекты
+## Избранные публичные проекты
 
 <table>
 <tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/maxim007mv/wb_ml_hac">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxim007mv&repo=wb_ml_hac&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="WB"/>
+</a>
+
+<sub>**Победитель WB Space** · предиктивный вызов транспорта<br/>LightGBM · live-sim · React</sub>
+
+</td>
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/maxim007mv/LENTA_HACK_HACKA">
@@ -58,15 +90,6 @@
 </a>
 
 <sub>**CV + OCR** · Lenta Tech — ценники с видеопотока<br/>Go · Python · React</sub>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/maxim007mv/wb_ml_hac">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxim007mv&repo=wb_ml_hac&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="WB"/>
-</a>
-
-<sub>**ML** · WB Space — предиктивный вызов транспорта<br/>LightGBM · live-sim · React</sub>
 
 </td>
 </tr>
@@ -97,7 +120,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxim007mv&repo=ExcelGlueBot&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Excel bot"/>
 </a>
 
-<sub>**Bot** · сравнение цен из Excel<br/>Python · pandas · Telegram</sub>
+<sub>**Bot / RPA-adjacent** · сравнение цен из Excel<br/>Python · pandas · Telegram</sub>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -112,7 +135,20 @@
 </tr>
 </table>
 
-<p align="center"><sub>Также: <b>TenderGo / TenderPulse</b> — аналитика и генерация документов для госзакупок (приватный контур · Go · React · DuckDB)</sub></p>
+---
+
+## Приватные проекты (по запросу)
+
+Часть работы лежит в **закрытых** репозиториях и клиентских контурах — демо и детали по запросу в Telegram / email.
+
+| Проект | Суть | Стек (кратко) |
+| --- | --- | --- |
+| **TenderGo / TenderPulse** | аналитика госзакупок, радар, досье, генерация документов заявки | Go · React · DuckDB |
+| **Теннисная компания** | оптимизация бизнес-процессов: расписание, записи, операции клуба / академии | backend · автоматизация · отчётность |
+| **RPA / ops automation** | роботы и интеграции под рутину (таблицы, уведомления, сверки) | Python · боты · API |
+| **Прочие клиентские MVP** | внутренние кабинеты, парсинг, дашборды | по задаче |
+
+> Код и материалы **не публичны**. Готов показать архитектуру, скрины и результаты на созвоне.
 
 ---
 
@@ -122,6 +158,7 @@
 ML / CV     PyTorch · torchvision · Ultralytics · OpenCV · Pandas · LightGBM
 Backend     Go · Python · TypeScript · NestJS · FastAPI · PostgreSQL · DuckDB
 Frontend    React · Next.js · Expo / React Native
+RPA / Ops   Python · Telegram bots · Excel/CSV pipelines · process automation
 Infra       Docker · Linux · Nginx · GitHub Actions
 ```
 
@@ -144,6 +181,6 @@ Infra       Docker · Linux · Nginx · GitHub Actions
 
 **Связь:** [@PIMPYS](https://t.me/PIMPYS) · [email](mailto:lomakin2006lomakin@yandex.ru) · [github.com/maxim007mv](https://github.com/maxim007mv)
 
-<sub>Открыт к стажировкам, research-коллабам и задачам в backend / ML / computer vision</sub>
+<sub>Открыт к стажировкам, research-коллабам и задачам в backend / ML / CV / автоматизации процессов</sub>
 
 </div>
